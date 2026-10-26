@@ -1,0 +1,10 @@
+parameter,unit,limit_trinkwv,trinkwv_ref,limit_who,who_ref,who_type,plaus_max,note
+Blei,mg/L,0.010,"TrinkwV 2023, Anlage 2 Teil II",0.010,WHO GDWQ (vorläufiger Richtwert),gesundheitsbasiert,5,"TrinkwV: 0,010 mg/L gilt bis 11.01.2036, danach 0,005 mg/L"
+Nitrat,mg/L,50,"TrinkwV 2023, Anlage 2 Teil I",50,WHO GDWQ (als NO3),gesundheitsbasiert,500,"Zusatzbedingung Nitrat/50 + Nitrit/3 <= 1 hier nicht prüfbar (kein Nitrit)"
+Chlorid,mg/L,250,"TrinkwV 2023, Anlage 3 (Indikatorparameter)",250,WHO GDWQ (Geschmacksschwelle),Akzeptanz,5000,Indikatorparameter ohne Gesundheitsbezug
+Natrium,mg/L,200,"TrinkwV 2023, Anlage 3 (Indikatorparameter)",200,WHO GDWQ (Geschmacksschwelle),Akzeptanz,5000,Indikatorparameter ohne Gesundheitsbezug
+Sulfat,mg/L,250,"TrinkwV 2023, Anlage 3 (Indikatorparameter)",250,WHO GDWQ (Geschmacksschwelle),Akzeptanz,5000,Indikatorparameter ohne Gesundheitsbezug
+Kalium,mg/L,,,,,,500,kein Grenzwert
+Calcium,mg/L,,,,,,1000,kein Grenzwert
+Magnesium,mg/L,,,,,,1000,kein Grenzwert
+Gesamthärte,°dH,,,,,,60,kein Grenzwert (Information)

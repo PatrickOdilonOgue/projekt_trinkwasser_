@@ -1,0 +1,6 @@
+rang,parameter,n_valid,n_exceed,exceed_rate_pct,max_utilisation_pct
+1,Blei,30946,1059,3.42,11390.0
+2,Nitrat,265,0,0.0,100.0
+3,Sulfat,260,0,0.0,98.8
+4,Natrium,256,0,0.0,29.8
+5,Chlorid,248,0,0.0,28.8

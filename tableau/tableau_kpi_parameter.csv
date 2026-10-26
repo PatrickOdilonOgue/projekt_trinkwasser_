@@ -1,0 +1,14 @@
+parameter,source,n_valid,n_exceed,exceed_rate_pct,n_warn,max_utilisation_pct
+Blei,Michigan EGLE / APM Reports,30946,1059,3.42,430,11390.0
+Nitrat,Open Data Rhein-Neckar (2014),112,0,0.0,4,100.0
+Sulfat,Landkreis Heilbronn (Gemeinden/Stadtwerke),149,0,0.0,1,98.8
+Nitrat,Landkreis Heilbronn (Gemeinden/Stadtwerke),149,0,0.0,0,74.6
+Sulfat,Open Data Rhein-Neckar (2014),107,0,0.0,0,47.2
+Nitrat,Rheinenergie Köln,4,0,0.0,0,42.0
+Natrium,Open Data Rhein-Neckar (2014),112,0,0.0,0,29.8
+Sulfat,Rheinenergie Köln,4,0,0.0,0,29.2
+Chlorid,Open Data Rhein-Neckar (2014),111,0,0.0,0,28.8
+Chlorid,Rheinenergie Köln,4,0,0.0,0,25.6
+Chlorid,Landkreis Heilbronn (Gemeinden/Stadtwerke),133,0,0.0,0,22.8
+Natrium,Rheinenergie Köln,4,0,0.0,0,17.5
+Natrium,Landkreis Heilbronn (Gemeinden/Stadtwerke),140,0,0.0,0,15.0

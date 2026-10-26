@@ -1,0 +1,5 @@
+source,rows_raw,rows_used,excl_missing,excl_rejected,excl_duplicate,excl_implausible,flag_unit_converted,flag_range_or_multi,flag_below_loq,flag_nd_zero,flag_stat_outlier
+Landkreis Heilbronn (Gemeinden/Stadtwerke),4040,1160,91,0,2824,0,0,41,0,0,13
+Michigan EGLE / APM Reports,34543,30946,0,3596,1,0,8509,0,0,22401,26
+Open Data Rhein-Neckar (2014),772,772,0,0,0,0,0,19,14,0,20
+Rheinenergie Köln,32,32,0,0,0,0,0,0,0,0,5
